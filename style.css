@@ -1,0 +1,75 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    height: 100px;
+}
+.nav{
+    height: 100px;
+}
+.btn3{
+    width: 80px;
+    height: 35px;
+}
+.card{
+    width: 400px;
+}
+
+
+.section{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    background-image: url("https://www.nylabone.com/-/media/project/oneweb/nylabone/images/dog101/10-intelligent-dog-breeds/golden-retriever-tongue-out.jpg ");
+    background-repeat: no-repeat;
+    
+}
+.empty{
+    width:750px;
+}
+.btn1{
+    border: solid 3px black ;
+    background-color: black;
+    color: aliceblue;
+    padding: 5px;
+    text-decoration: none;
+}
+.btn1:hover{
+    background-color: antiquewhite;
+    color: black;
+}
+p{
+    text-align: justify;
+    font-size: small;
+}
+.btn2{
+    border: 0px;
+    background-color: transparent;
+    
+}
+.btn2:hover{
+    background-color: black;
+    color:whitesmoke;
+}
+.card1{
+    height: 800px;
+}
+#carded{
+    background-image: url("https://img.freepik.com/premium-photo/dog-with-black-collar-black-background-that-says-dog-s-paw_391229-6506.jpg");
+    
+}
+#cards{
+   background-image: url("https://i.pinimg.com/474x/0c/a3/91/0ca391f064c82b1ea2baa4c1779a7912.jpg");
+}
+#caard{
+   background-image: url("https://static.toiimg.com/thumb/107091662/107091662.jpg?height=746&width=420&resizemode=76&imgsize=21820");
+}
+.row{
+    width:100%;
+    height: 500px;
+}
+.footer{
+    width: 100%;
+    height: 50px;
+}
